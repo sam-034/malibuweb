@@ -1,2 +1,0 @@
-# malibuweb
-pagina para pruebas
